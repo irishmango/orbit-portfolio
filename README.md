@@ -73,7 +73,6 @@ collaborations/{collabId}
   - Authentication enabled
   - Firestore + Storage
   - Cloud Functions
-- OpenAI API key (for chatbot simulation)
 
 ### Setup
 1. Clone the repo:
