@@ -29,7 +29,6 @@ It showcases modern mobile development practices including real-time collaborati
   - Read/unread indicators
   - Message delivery/error states
   - Timestamps formatted (today, yesterday, weekday, or full date)
-  - **AI Bot** integration (OpenAI) to simulate teammates or provide assistance
 
 - **Profile**
   - Editable profile (name, photo, email)
@@ -45,9 +44,6 @@ It showcases modern mobile development practices including real-time collaborati
   - Authentication
   - Firestore (users, tasks, projects, collaborations, chat)
   - Firebase Storage (profile images)
-  - Firebase Functions (OpenAI chatbot integration)
-- **Services**:
-  - OpenAI API (simulated chat participants / productivity assistant)
 
 ---
 
@@ -60,7 +56,6 @@ users/{userId}
 collaborations/{collabId}
 ├── collabProjects/{projectId}/collabProjectTasks/{taskId}
 ├── messages/{messageId}
-└── metadata (bot typing indicators, etc.)
 
 
 ---
