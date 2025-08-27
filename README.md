@@ -1,7 +1,7 @@
 # Orbit
 
 Orbit is a **task management & collaboration app** built with **Flutter** and **Firebase**.  
-It showcases modern mobile development practices including real-time collaboration, chat, and even an **AI chatbot teammate**.
+It showcases modern mobile development practices including real-time collaboration and chat.
 
 ---
 
